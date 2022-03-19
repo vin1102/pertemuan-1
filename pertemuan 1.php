@@ -17,7 +17,7 @@ class handphone {
     }
 
     }
-    $hp1 = new Handphone("Acer", "Merah", "Snapdragon A7 RAM 4GB", 1400000 )
+    $hp1 = new Handphone("Acer", "Merah", "Snapdragon A7 RAM 4GB", 1400000 );
 
     echo $hp1->getmerk();
 
